@@ -114,7 +114,7 @@ const InnovatorOverview = () => {
           <Card className="custom-card">
             <Card.Body>
               <div className="d-flex justify-content-between align-items-center mb-4">
-                <h5 className="mb-0">Recent Projects</h5>
+                <h5 className="mb-0">Recent Projects and ideas that have patent</h5>
                 <Button 
                   as={Link} 
                   to="/innovator/dashboard/projects" 
